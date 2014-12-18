@@ -1,0 +1,13 @@
+---
+- !ruby/object:Vendor
+  name: Company A
+  price_range_lower_bound: 1000
+  price_range_upper_bound: 3000
+- !ruby/object:Vendor
+  name: Company B
+  price_range_lower_bound: 6000
+  price_range_upper_bound: 10000
+- !ruby/object:Vendor
+  name: Company C
+  price_range_lower_bound: 500
+  price_range_upper_bound: 2500

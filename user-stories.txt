@@ -1,0 +1,12 @@
+Author: Ryan Frith
+
+User Stories for completion of Peachtree Medical Billing Ruby Assessment Part 1
+-------------------------------------------------------------------------------
+
+1) As a vendor I would like to be able to store values for low and high values that, combined, describe the price range for the cost of the services which I provide.
+
+2) As a shopper I would like to be able to search for a list of vendors whose cost for services are within the range that I specify.
+
+3) As a shopper I would like to be able to search for a list of vendors whose maximum price for services does not exceed the price I specify.
+
+4) As a shopper I would like to be able to search for a list of vendors whose minimum price for services is not below the price I specify.
